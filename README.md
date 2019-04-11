@@ -1,2 +1,2 @@
 # python-auctionworx-api
-Python Auctionworx API
+To create listing, making auction search requests
